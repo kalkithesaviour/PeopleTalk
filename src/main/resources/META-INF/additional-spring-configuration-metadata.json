@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "google.recaptcha.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'google.recaptcha.secret'"
+  },
+  {
+    "name": "google.recaptcha.verification.url",
+    "type": "java.lang.String",
+    "description": "A description for 'google.recaptcha.verification.url'"
+  },
+  {
+    "name": "<spring>",
+    "type": "java.lang.String",
+    "description": "A description for '<spring>'"
+  },
+  {
+    "name": "<oauth2>",
+    "type": "java.lang.String",
+    "description": "A description for '<oauth2>'"
+  },
+  {
+    "name": "<registration>",
+    "type": "java.lang.String",
+    "description": "A description for '<registration>'"
+  }
+]}
